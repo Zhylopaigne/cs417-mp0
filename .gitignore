@@ -100,3 +100,14 @@ InitTestScene*.unity*
 CS417_MP0/[Ll]ibrary/*
 CS417_MP0/[Ll]ibrary/[Bb]ee/*
 CS417_MP0/[Tt]emp/*
+CS417_MP0/UserSettings/Layouts/default-6000.dwlt
+CS417_MP0/Library/UndoStack.bin
+CS417_MP0/Library/UndoData.bin
+CS417_MP0/Library/SourceAssetDB
+CS417_MP0/Library/ShaderCache.db
+CS417_MP0/Library/Search/transactions.db
+CS417_MP0/Library/Bee/fullprofile.json
+*.db
+*.db
+*.bin
+/CS417_MP0/Library
