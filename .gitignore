@@ -97,3 +97,138 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+CS417_MP0/Library/ArtifactDB
+CS417_MP0/Library/Bee/artifacts/WinPlayerBuildProgram/Features/Unity.XR.OpenXR.Features.RuntimeDebugger-FeaturesChecked.txt
+CS417_MP0/Library/BurstCache/JIT/BurstCacheManifest.cm
+CS417_MP0/Library/EditorInstance.json
+CS417_MP0/Library/expandedItems
+CS417_MP0/Library/PackageCache/com.unity.burst@973857688024/.Runtime/libburst-llvm-19.dylib
+CS417_MP0/Library/PackageCache/com.unity.collections@aea9d3bd5e19/Unity.Collections.LowLevel.ILSupport/source~/Unity.Collections.LowLevel.ILSupport.CodeGen.meta
+CS417_MP0/Library/PackageCache/com.unity.collections@aea9d3bd5e19/Unity.Collections.LowLevel.ILSupport/source~/Unity.Collections.LowLevel.ILSupport.CodeGen/CollectionsUnsafeUtilityPostProcessor.cs
+CS417_MP0/Library/PackageCache/com.unity.collections@aea9d3bd5e19/Unity.Collections.LowLevel.ILSupport/source~/Unity.Collections.LowLevel.ILSupport.CodeGen/CollectionsUnsafeUtilityPostProcessor.cs.meta
+CS417_MP0/Library/PackageCache/com.unity.collections@aea9d3bd5e19/Unity.Collections.LowLevel.ILSupport/source~/Unity.Collections.LowLevel.ILSupport.CodeGen/Unity.Collections.LowLevel.ILSupport.CodeGen.asmdef
+CS417_MP0/Library/PackageCache/com.unity.collections@aea9d3bd5e19/Unity.Collections.LowLevel.ILSupport/source~/Unity.Collections.LowLevel.ILSupport.CodeGen/Unity.Collections.LowLevel.ILSupport.CodeGen.asmdef.meta
+CS417_MP0/Library/PackageCache/com.unity.collections@aea9d3bd5e19/Unity.Collections.PerformanceTests/Unity.PerformanceTesting.Benchmark/BenchmarkGenerator.cs
+CS417_MP0/Library/PackageCache/com.unity.collections@aea9d3bd5e19/Unity.Collections.PerformanceTests/Unity.PerformanceTesting.Benchmark/BenchmarkGenerator.cs.meta
+CS417_MP0/Library/PackageCache/com.unity.collections@aea9d3bd5e19/Unity.Collections.PerformanceTests/Unity.PerformanceTesting.Benchmark/PerformanceTestFrameworkOutput.png.meta
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.core@d6dfd1e235d5/Runtime/Debugging/Prefabs/Scripts/DebugUIHandlerMessageBox.cs.meta
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.core@d6dfd1e235d5/Runtime/Debugging/Prefabs/Textures/UIElement8px.png.meta
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.core@d6dfd1e235d5/Runtime/Debugging/Prefabs/Widgets/DebugUIMessageBox.prefab.meta
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.core@d6dfd1e235d5/Samples~/Common/Prefabs/UnityBall/UnityMaterialBall_Gold.prefab.meta
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.core@d6dfd1e235d5/Samples~/Common/TextMesh Pro/Resources/Fonts & Materials/SamplesLit_Inter.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Samples~/URPPackageSamples/LensFlares/Textures/Shimmer.png.meta
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingData.asset
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingData.asset.meta
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingSettings.lighting
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Samples~/URPPackageSamples/RendererFeatures/AmbientOcclusion/AmbientOcclusion/LightingSettings.lighting.meta
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Samples~/URPPackageSamples/RendererFeatures/BlitToRTHandle/BlitMaterial.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Samples~/URPPackageSamples/RendererFeatures/TrailEffect/Shaders/TrailMap.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Tests/Editor/Tools/Converters/ReadonlyMaterialConverter.meta
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Tests/Editor/Tools/Converters/ReadonlyMaterialConverter/Cube.prefab
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Tests/Editor/Tools/Converters/ReadonlyMaterialConverter/Cube.prefab.meta
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Tests/Editor/Tools/Converters/ReadonlyMaterialConverter/ReadonlyMaterialConverterTests.cs
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Tests/Editor/Tools/Converters/ReadonlyMaterialConverter/ReadonlyMaterialConverterTests.cs.meta
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Tests/Editor/Tools/Converters/ReadonlyMaterialConverter/ReadonlyMaterialConverterTests.MaterialReferenceBuilder.cs
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Tests/Editor/Tools/Converters/ReadonlyMaterialConverter/ReadonlyMaterialConverterTests.MaterialReferenceBuilder.cs.meta
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Tests/Editor/Tools/Converters/ReadonlyMaterialConverter/ReadonlyMaterialConverterTests.MaterialReferenceChanger.cs
+CS417_MP0/Library/PackageCache/com.unity.render-pipelines.universal@a6e30d1f59f5/Tests/Editor/Tools/Converters/ReadonlyMaterialConverter/ReadonlyMaterialConverterTests.MaterialReferenceChanger.cs.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Blending Masks/AltitudeMask.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Condition/BranchOnMaterialQuality.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Interpolator/CustomInterpolatorNdotL.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Interpolator/CustomInterpolatorUVScrolling.mat.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Interpolator/CustomInterpolatorUVScrolling.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/Cel Shader/CustomLightingCelShader.shadersubgraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/CustomLighting.shadersubgraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/CustomLightingCelShader.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/CustomLightingDistanceFog.shadersubgraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/CustomLightingPBR.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/CustomLightingSimple.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/MainLight.shadersubgraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/PBR/CustomLightingAdditionalLights.shadersubgraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/PBR/CustomLightingMainLight.shadersubgraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/PBR/CustomLightingPBR.shadersubgraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/PBR/CustomLightingPBRAmbient.shadersubgraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/PBR/PBRSpecular/NormalDistributionTrowReitz.shadersubgraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/PBR/PBRSpecular/SmithGGXGeometryTerm.shadersubgraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/PBR/SampleReflectionProbes.shadersubgraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/Simple/AdjustSmoothness.shadersubgraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/Simple/CustomLightingSimple.shadersubgraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/Simple/CustomLightingSimpleAdditionalLights.shadersubgraph
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/Simple/CustomLightingSimpleAdditionalLights.shadersubgraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/Simple/CustomLightingSimpleAmbient.shadersubgraph
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Custom Lighting/Simple/CustomLightingSimpleAmbient.shadersubgraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Detail Mapping/DetailMappingColor.mat.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Detail Mapping/DetailMappingColor.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Detail Mapping/DetailMappingFull.mat.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Detail Mapping/DetailMappingFull.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Detail Mapping/DetailMappingNormal.mat.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/Detail Mapping/DetailMappingNormal.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/UV Projection/FlowMapping/FlowMapping.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/UV Projection/InteriorCubemapping/InteriorCubemapping.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/UV Projection/MatCap/MatCap.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/UV Projection/ParallaxMapping/ParallaxMapping.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/UV Projection/ParallaxMapping/Shader Graphs_ParallaxMapping.mat.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/VertexAnimation/AnimatedFlag.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/VertexAnimation/AnimatedFlag/AnimatedFlag.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/VertexAnimation/BendDeformer/BendDeformer.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/VertexAnimation/Billboard/Billboard.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/VertexAnimation/FoliageWind/FoliageWind.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/VertexAnimation/GerstnerWave/GerstnerWave.shadergraph
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/VertexAnimation/GerstnerWave/GerstnerWave.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/VertexAnimation/Particles/SoftEdgeTest.mat
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/FeatureExamples/VertexAnimation/Particles/SoftEdgeTest.mat.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/NodeReference/Artistic/ChannelMask.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/NodeReference/Artistic/ColorMask.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/NodeReference/Artistic/NormalBlend.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/NodeReference/Artistic/NormalFromHeight.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/NodeReference/Artistic/NormalFromTexture.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/NodeReference/Artistic/NormalReconstructZ.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/NodeReference/Artistic/NormalStrength.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/NodeReference/Artistic/NormalUnpack.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/NodeReference/Input/TransformationMatrix.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/NodeReference/Textures/interior_cube_sample.png.meta
+CS417_MP0/Library/PackageCache/com.unity.shadergraph@d44b48771ebb/Samples~/UGUIShaders/Default Materials/Meter Simple Fill.shadergraph.meta
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Core/Listeners/UIInterfaces/UnityOnBeginDragMessageListener.cs
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Core/Listeners/UIInterfaces/UnityOnBeginDragMessageListener.cs.meta
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Core/Listeners/UIInterfaces/UnityOnPointerClickMessageListener.cs
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Core/Listeners/UIInterfaces/UnityOnPointerClickMessageListener.cs.meta
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Core/Listeners/UIInterfaces/UnityOnPointerDownMessageListener.cs
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Core/Listeners/UIInterfaces/UnityOnPointerDownMessageListener.cs.meta
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Core/Listeners/UIInterfaces/UnityOnPointerEnterMessageListener.cs
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Core/Listeners/UIInterfaces/UnityOnPointerEnterMessageListener.cs.meta
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Core/Listeners/UIInterfaces/UnityOnPointerExitMessageListener.cs
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Core/Listeners/UIInterfaces/UnityOnPointerExitMessageListener.cs.meta
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Core/Listeners/UIInterfaces/UnityOnPointerUpMessageListener.cs
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Core/Listeners/UIInterfaces/UnityOnPointerUpMessageListener.cs.meta
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Core/Listeners/UIInterfaces/UnityOnSubmitMessageListener.cs
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Core/Listeners/UIInterfaces/UnityOnSubmitMessageListener.cs.meta
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Flow/Framework/Collections/Dictionaries/MergeDictionaries.cs
+CS417_MP0/Library/PackageCache/com.unity.visualscripting@191c0d7e3b69/Runtime/VisualScripting.Flow/Framework/Collections/Dictionaries/MergeDictionaries.cs.meta
+CS417_MP0/Library/PackageCache/com.unity.xr.interaction.toolkit@5f736ad4ccd8/Samples~/visionOS/Prefabs/Interactors/Primary Interaction Group.prefab.meta
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Editor/RuntimeDebugger/Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.asmdef
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Editor/RuntimeDebugger/Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.asmdef.meta
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Runtime/RuntimeDebugger/Unity.XR.OpenXR.Features.RuntimeDebugger.asmdef.meta
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Samples~/MeshingFeature/MeshingFeaturePlugin/android/arm64/libMeshingFeaturePlugin.so
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Samples~/MeshingFeature/MeshingFeaturePlugin/android/arm64/libMeshingFeaturePlugin.so.meta
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Samples~/MeshingFeature/MeshingFeaturePlugin/android/x64/libMeshingFeaturePlugin.so
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Samples~/MeshingFeature/MeshingFeaturePlugin/android/x64/libMeshingFeaturePlugin.so.meta
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Samples~/MeshingFeature/MeshingFeaturePlugin/Native~/ext_meshing_provider.cpp.meta
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Samples~/MeshingFeature/MeshingFeaturePlugin/osx/MeshingFeaturePlugin.dylib
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Samples~/MeshingFeature/MeshingFeaturePlugin/osx/MeshingFeaturePlugin.dylib.meta
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Samples~/MeshingFeature/MeshingFeaturePlugin/universalwindows/arm32/MeshingFeaturePlugin.dll
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Samples~/MeshingFeature/MeshingFeaturePlugin/universalwindows/arm32/MeshingFeaturePlugin.dll.meta
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Samples~/MeshingFeature/MeshingFeaturePlugin/universalwindows/arm64/MeshingFeaturePlugin.dll
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Samples~/MeshingFeature/MeshingFeaturePlugin/universalwindows/arm64/MeshingFeaturePlugin.dll.meta
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Samples~/MeshingFeature/MeshingFeaturePlugin/universalwindows/x64/MeshingFeaturePlugin.dll
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Samples~/MeshingFeature/MeshingFeaturePlugin/universalwindows/x64/MeshingFeaturePlugin.dll.meta
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Samples~/MeshingFeature/MeshingFeaturePlugin/windows/x64/MeshingFeaturePlugin.dll
+CS417_MP0/Library/PackageCache/com.unity.xr.openxr@ef0033a586bf/Samples~/MeshingFeature/MeshingFeaturePlugin/windows/x64/MeshingFeaturePlugin.dll.meta
+CS417_MP0/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.RuntimeDebugger.Editor.dll
+CS417_MP0/Library/SourceAssetDB
+CS417_MP0/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+CS417_MP0/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
+CS417_MP0/Library/BurstCache/JIT/BurstCacheManifest.cm
+CS417_MP0/Library/EditorInstance.json
+CS417_MP0/Library/SourceAssetDB
+CS417_MP0/Library/StateCache/MainStageHierarchy/4d/4d2a36d9faf65734f0bbefb3ee623532.json
+CS417_MP0/Library/StateCache/SceneView/8c/8cd7c613bf844de3b80696e27a479d5e.json
